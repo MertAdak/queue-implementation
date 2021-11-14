@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mert/CLionProjects/Queue Implementations/Node.h
+
+/home/mert/CLionProjects/Queue Implementations/Queue.h
+Node.h
+/home/mert/CLionProjects/Queue Implementations/Node.h
+
+/home/mert/CLionProjects/Queue Implementations/main.cpp
+iostream
+-
+Queue.h
+/home/mert/CLionProjects/Queue Implementations/Queue.h
+
